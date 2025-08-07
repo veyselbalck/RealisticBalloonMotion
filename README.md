@@ -60,6 +60,11 @@ MIT License – Free to use and modify.
 
 ---
 
+## Example Images
+
+![Balloon](media/balloon.png)
+![Balloon1](media/balloon1.jpeg)
+
 ## 🇹🇷 Türkçe Açıklama
 
 # 🎈 ObjVelocityReader - Rigidbody'siz Gerçekçi Balon Hareketleri (Unity C#)
@@ -115,3 +120,7 @@ Bu script, 2022 yılında gerçekleştirdiğim bir yaz stajı sürecinde, perfor
 
 ---
 
+## Örnek Görseller
+
+![Balloon](media/balloon.png)
+![Balloon1](media/balloon1.jpeg)
